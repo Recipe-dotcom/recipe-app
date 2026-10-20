@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mercimek Çorbası",
+    "category": "Çorba",
+    "calories": 180,
+    "vegan": true,
+    "ingredients": ["kırmızı mercimek", "soğan", "havuç", "zeytinyağı", "salça", "kimyon"]
+  },
+  {
+    "name": "Menemen",
+    "category": "Kahvaltı / Ana Yemek",
+    "calories": 210,
+    "vegan": false,
+    "ingredients": ["yumurta", "domates", "biber", "zeytinyağı", "tuz"]
+  }
+]
